@@ -8,3 +8,5 @@ func Hello() string {
 func main() {
 	fmt.Println(Hello())
 }
+
+//great
