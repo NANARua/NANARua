@@ -1,2 +1,3 @@
+name: 'MICU_rule'
 rules:
   - DOMAIN-SUFFIX,micu.hk,DIRECT
