@@ -1,3 +1,5 @@
 name: 'MICU_rule'
 rules:
   - DOMAIN-SUFFIX,micu.hk,DIRECT
+  - DOMAIN-SUFFIX,nb.28.al,DIRECT
+  - DOMAIN-SUFFIX,qdz1.top,DIRECT
